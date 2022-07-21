@@ -1,7 +1,7 @@
 # ID5-an-Incremental-ID3
 
 In this project, I have implemented the algorithm described in this paper: https://www.sciencedirect.com/science/article/pii/B9780934613644500177</br>
-ID5 is an incremental algorithm that produces a decision tree similar to the ID3 algorithm. The main benefict of this algorithm is that new training instances can be processed by revisiting the decision tree instead of building a bew tree from scratch.</br>
+ID5 is an incremental algorithm that produces a decision tree similar to the ID3 algorithm. The main benefit of this algorithm is that new training instances can be processed by revisiting the decision tree instead of building a new tree from scratch.</br>
 
 **This algorithm is coded from scratch with python, without using any libraries.**
 
